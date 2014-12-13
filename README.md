@@ -1,5 +1,7 @@
 
+
 # Workflowable
+Modify to rails 3.2
 
 ## What is Workflowable?
 
